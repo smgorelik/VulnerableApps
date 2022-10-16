@@ -1,1 +1,0 @@
-Avulnerable VNC Server from 2008, the authentication can be bypassed and a client can be connected to the server machine
